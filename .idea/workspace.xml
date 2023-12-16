@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddada65c-7229-4a92-b86f-88172f508827" name="Changes" comment="25 5 23 ENHKX Med+) ) ) Drone Project Inspiration and the Beginning.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;itllsendamsg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="18acfe85-e577-45ac-8e46-8667014f2702" />
+        <option name="url" value="https://github.com/itllsendamsg/ideas.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2OA8aDH9ubD107lDGzdf9bpCF48" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;Y:/Cloud/O 4/OneDrive - facilitate cross-media applications/Engineering/IntelliJ IDEA/27 GitHub Desktop/Remote/StormIT/ideas-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.stormit.ideas.handlers" />
+      <recent name="pl.stormit.ideas.dao" />
+      <recent name="pl.stormit.ideas.handler.BaseCommandHandler" />
+      <recent name="pl.stormit.ideas.QuitCommandHandler" />
+      <recent name="pl.stormit.ideas.handler" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Y:\Cloud\O 4\OneDrive - facilitate cross-media applications\Engineering\IntelliJ IDEA\27 GitHub Desktop\Local\StormIT\ideas\target" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.stormit.ideas.input" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.stormit.ideas.handlers" />
+      <recent name="pl.stormit.ideas.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IdeasApplication">
+    <configuration name="IdeasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.stormit.ideas.IdeasApplication" />
+      <module name="ideas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.stormit.ideas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pl.stormit.ideas.IdeasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.stormit.ideas.IdeasApplication" />
+      <module name="ideas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.stormit.ideas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInputCommandTest.shouldBuildCorrectUserInputCommand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ideas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.stormit.ideas.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.stormit.ideas.input" />
+      <option name="MAIN_CLASS_NAME" value="pl.stormit.ideas.input.UserInputCommandTest" />
+      <option name="METHOD_NAME" value="shouldBuildCorrectUserInputCommand" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInputCommandTest.shouldBuildCorrectUserInputCommandWithMultipleParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ideas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.stormit.ideas.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.stormit.ideas.input" />
+      <option name="MAIN_CLASS_NAME" value="pl.stormit.ideas.input.UserInputCommandTest" />
+      <option name="METHOD_NAME" value="shouldBuildCorrectUserInputCommandWithMultipleParams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInputCommandTest.shouldBuildCorrectUserInputCommandWithoutParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ideas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.stormit.ideas.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.stormit.ideas.input" />
+      <option name="MAIN_CLASS_NAME" value="pl.stormit.ideas.input.UserInputCommandTest" />
+      <option name="METHOD_NAME" value="shouldBuildCorrectUserInputCommandWithoutParams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IdeasApplication" />
+        <item itemvalue="Application.pl.stormit.ideas.IdeasApplication" />
+        <item itemvalue="JUnit.UserInputCommandTest.shouldBuildCorrectUserInputCommand" />
+        <item itemvalue="JUnit.UserInputCommandTest.shouldBuildCorrectUserInputCommandWithMultipleParams" />
+        <item itemvalue="JUnit.UserInputCommandTest.shouldBuildCorrectUserInputCommandWithoutParams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-8336523bb0d9-e34d2934" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddada65c-7229-4a92-b86f-88172f508827" name="Changes" comment="" />
+      <created>1680992090286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680992090286</updated>
+    </task>
+    <task id="LOCAL-00001" summary="25 5 23 ENHKX Med+) ) ) Drone Project Inspiration and the Beginning.">
+      <created>1685037112629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685037112629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25 5 23 ENHKX Med+) ) ) Drone Project Inspiration and the Beginning." />
+    <option name="LAST_COMMIT_MESSAGE" value="25 5 23 ENHKX Med+) ) ) Drone Project Inspiration and the Beginning." />
+  </component>
+</project>
