@@ -13,8 +13,7 @@ public class QuestionCommandHandler extends BaseCommandHandler {
 
     private static Logger LOG = Logger.getLogger(QuestionCommandHandler.class.getName());
     private static final String COMMAND_NAME = "question";
-// 20 4 23 REFACTORED
-//    private CategoryDao categoryDao;
+
     private QuestionDao questionDao;
     private CategoryDao categoryDao;
     public QuestionCommandHandler(){
@@ -29,8 +28,7 @@ public class QuestionCommandHandler extends BaseCommandHandler {
     @Override
     public void handle(UserInputCommand command) {
         if (command.getAction()==null){
-// 16 5 23 REFACTORED
-//          throw new IllegalArgumentException("Action cannot be null");
+
             throw new IllegalArgumentException("\n" +
                     "\n" +
                     "\n" + "        -----------------------------------------------------------------------------------" +

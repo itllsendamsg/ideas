@@ -29,8 +29,7 @@ public class AnswerCommandHandler extends BaseCommandHandler {
     @Override
     public void handle(UserInputCommand command) {
         if (command.getAction()==null){
-// REFACTORED 16 5 23
-//          throw new IllegalArgumentException("Action cannot be null");
+
             throw new IllegalArgumentException("\n" +
                     "\n" +
                     "\n" + "        -----------------------------------------------------------------------------------" +
@@ -45,22 +44,10 @@ public class AnswerCommandHandler extends BaseCommandHandler {
 
         switch (command.getAction()) {
             case LIST:
-// 20 4 23 REFACTORED
-//                System.out.println("List of categories...");
-//                List<Category> categories = categoryDao.findAll();
-//                categories.forEach(System.out::println);
-// 21 4 23 REFACTORED
-//                System.out.println("List of questions...");
-// 21 4 23 REFACTORED
-//              LOG.info("List of questions");
                 LOG.info("List of answers");
-// 21 4 23 REFACTORED
-//                if (!command.getParam().isEmpty()){
-//                    throw new IllegalArgumentException("Category list doesn't support any additional params");
-//                }
+
                 if(command.getParam().size()!=1){
-//  16 5 23 REFACTORED
-//                  throw new IllegalArgumentException("Wrong command format. Check help for more information");
+
                     throw new IllegalArgumentException("\n" +
                             "\n" +
                             "\n" + "        -----------------------------------------------------------------------------------" +
@@ -74,11 +61,9 @@ public class AnswerCommandHandler extends BaseCommandHandler {
                             "\n" + "                                    Please, check help for more information.");
                 }
                 String questionName = command.getParam().get(0);
-// 21 4 23 REFACTORED
-//              questionDao.findOne(questionName).
+
                 Question question = questionDao.findOne(questionName)
-// 16 5 23 REFACTORED
-//                      .orElseThrow(()-> new IllegalArgumentException("Question not found " + questionName));
+
                         .orElseThrow(()-> new IllegalArgumentException("\n" +
                                 "\n" +
                                 "\n" + "        -----------------------------------------------------------------------------------" +

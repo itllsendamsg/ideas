@@ -7,10 +7,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddada65c-7229-4a92-b86f-88172f508827" name="Changes" comment="25 5 23 ENHKX Med+) ) ) Drone Project Inspiration and the Beginning.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="ddada65c-7229-4a92-b86f-88172f508827" name="Changes" comment="16 12 23 ENHKX Med+) ) ) Drone 29 unversioned files updated.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/stormit/ideas/handlers/AnswerCommandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/stormit/ideas/handlers/AnswerCommandHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/stormit/ideas/handlers/QuestionCommandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/stormit/ideas/handlers/QuestionCommandHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/IdeasApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/QuitIdeasApplicationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/dao/CategoryDao$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/dao/CategoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/dao/QuestionDao$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/dao/QuestionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/AnswerCommandHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/AnswerCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/BaseCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/CategoryCommandHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/CategoryCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/CommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/HelpCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/QuestionCommandHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/QuestionCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/handlers/QuitCommandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/input/UserInputCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/input/UserInputManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/model/Answer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/model/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/stormit/ideas/model/Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/stormit/ideas/input/UserInputCommandTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +86,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;Y:/Cloud/O 4/OneDrive - facilitate cross-media applications/Engineering/IntelliJ IDEA/27 GitHub Desktop/Remote/StormIT/ideas-master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IdeasApplication.executor": "Run",
+    "Maven.ideas [clean].executor": "Run",
+    "Maven.ideas [compile].executor": "Run",
+    "Maven.ideas [deploy].executor": "Run",
+    "Maven.ideas [install].executor": "Run",
+    "Maven.ideas [package].executor": "Run",
+    "Maven.ideas [site].executor": "Run",
+    "Maven.ideas [test].executor": "Run",
+    "Maven.ideas [validate].executor": "Run",
+    "Maven.ideas [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "Y:/Cloud/O 4/OneDrive - facilitate cross-media applications/Engineering/IntelliJ IDEA/27 GitHub Desktop/Remote/StormIT/ideas-master",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.stormit.ideas.handlers" />
@@ -231,6 +268,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="25 5 23 ENHKX Med+) ) ) Drone Project Inspiration and the Beginning." />
-    <option name="LAST_COMMIT_MESSAGE" value="25 5 23 ENHKX Med+) ) ) Drone Project Inspiration and the Beginning." />
+    <MESSAGE value="16 12 23 ENHKX Med+) ) ) Drone 29 unversioned files updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="16 12 23 ENHKX Med+) ) ) Drone 29 unversioned files updated." />
   </component>
 </project>
