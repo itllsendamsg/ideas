@@ -41,7 +41,7 @@ of my idea for a potential technological solution:
 https://flic.kr/p/2pnYx6p
 
 
-**2.** Techie
+**2.** Techie.
 
    **This research was a groundbreaking moment in my life. Everything that had led to it
    and everything that has happened ever since that moment is going to reach far beyond
