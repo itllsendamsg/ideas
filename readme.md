@@ -86,9 +86,9 @@ than the materials connected with their research?
 3. Is there any potential solution that allows for the automatic creation of such materials?
 
    
-   **This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
-   leading to the evolution stages of the Ideas project i.e.
-   MedPick+ project  ENHKX Med+) ) ) Drone project ideas project.**
+**This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
+leading to the evolution stages of the Ideas project i.e.
+MedPick+ project  ENHKX Med+) ) ) Drone project ideas project.**
 
 https://flic.kr/p/2pnTChF
 
