@@ -1,4 +1,5 @@
 **Ideas**
+
 **ENHKX Med+) ) ) Drone**
 
 
@@ -33,13 +34,15 @@ of my idea for a potential technological solution:
 
 
 1. The impact of the graphic layout on the presentations of materials in coursebooks.
-**This research provided me with an inspiration for the User  Software Efficient
+
+   **This research provided me with an inspiration for the User  Software Efficient
    and Ergonomic Interaction.**
 
 https://flic.kr/p/2pnYx6p
 
 
 2. Techie
+
    **This research was a groundbreaking moment in my life. Everything that had led to it
    and everything that has happened ever since that moment is going to reach far beyond
    the scope of this readme file and has its impact till the end of my life.
@@ -59,6 +62,7 @@ development of the communication channels because there is already available tec
 allows for the transmission of huge amounts of data which need to be processed, but the
 question remains why it would not be worth decreasing this pressure by optimising the medium,
 i.e. the language.
+
    **This research provided me with an inspiration for the User  Software Maximally Meaning Rich
    and Cost-effective Data Transmission.**
 
@@ -81,6 +85,7 @@ https://flic.kr/p/2pnTtmp
             2. Is it possible to make the search for unclear medical notions more researcher friendly?
             3. Is there any potential solution that allows for the automatic creation of such materials?
 
+   
    **This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
    leading to the evolution stages of the Ideas project i.e.
    MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
@@ -92,6 +97,7 @@ https://flic.kr/p/2pnTChF
    amounts of data and how to access them easily, the idea which inspired me resulted in the SARDatabase
    project that was focused on the modern mobile devices allowing for the internet access and having
    the mobile network capabilities.
+
    **Nevertheless, the spectrum of the available tools and solutions appeared to be constantly expanding.
    Therefore, the ideas that this project convenes have been incorporated and serve as the building block
    for the ENHKX Med+) ) ) Drone  ENHKX_Lifeline_Drone_App projects rather than as a separate project.
@@ -105,16 +111,21 @@ https://flic.kr/p/2pnYrtR
 
 
 6. Taking into consideration all the above-mentioned inspirations that resulted from the research, i.e.
+
    **1. This research provided me with an inspiration for the User  Software Efficient and Ergonomic
       Interaction.**
+
    **2. This research was a groundbreaking moment in my life. Everything that had led to it and everything
       that has happened ever since that moment is going to reach far beyond the scope of this readme file
       and has its impact till the end of my life.**
+
    **3. This research provided me with an inspiration for the User  Software Maximally Meaning Rich 
       and Cost-effective Data Transmission.**
+
    **4. This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
       leading to the evolution stages of the Ideas project i.e.
       MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
+
    **5. This project provided me with an inspiration for a reasonable reuse of the already available resources
       and solutions.**
 
@@ -133,28 +144,51 @@ The Ideas application implements the use of the Data Access Object (DAO), i.e. t
 this case facilitates the functionality of the application by the provision of the clear separation of the data
 resource’s client interface from the data access mechanisms.
 The current design and organisation of the packages, classes and interfaces are as follows:
-1. pl.stormit.ideas
+
+1.pl.stormit.ideas
+
 1.1. dao
+
 1.1.1. CategoryDao
+
 1.1.2. QuestionDao
-2. handlers
+
+2.handlers
+
 2.1. AnswerCommandHandler
+
 2.2. BaseCommandHandler
+
 2.3. CategoryCommandHandler
+
 2.4. CommandHandler
+
 2.5. HelpCommandHandler
+
 2.6. QuestionCommandHandler
-2.7. QuitCommandHandler
-3. input
+
+2.7. QuitCommandHandle
+
+3.input
+
 3.1. UserInputCommand
+
 3.2. UserInputManager
-4. model
+
+4.model
+
 4.1. Answer
+
 4.2. Category
+
 4.3. Question
-5. Action
-6. Ideas Application
-7. QuitIdeasApplicationException
+
+5.Action
+
+6.Ideas Application
+
+7.QuitIdeasApplicationException
+
 
 At this stage of the development, it is possible to interact with the application, which is capable of responding
 to the user’s input.
