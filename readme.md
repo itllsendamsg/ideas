@@ -18,16 +18,16 @@ academic research and technology, I have finally managed to narrow the areas of 
 that would be fundamentally beneficial for me to further gradually specify the final details
 of my idea for a potential technological solution:
 
-**1.** The impact of the graphic layout on the presentations of materials in coursebooks.
-**2.** This research was a groundbreaking moment in my life. Everything that had led to
+1. The impact of the graphic layout on the presentations of materials in coursebooks.
+2. This research was a groundbreaking moment in my life. Everything that had led to
    it and everything that has happened ever since that moment is going to reach far
    beyond the scope of this readme file and has its impact till the end of my life.
-**3.** The creation of new means of expression that could be present in the researched
+3. The creation of new means of expression that could be present in the researched
    online media.
-**4.** The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical
+4. The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical
    trial designs reports, medical examinations’ descriptions, technical descriptions
    of medicines, medical presentations, medical brochures and medical leaflets.
-**5.** At this stage, being focused on the “mobile first” approach and aware of the gradually
+5. At this stage, being focused on the “mobile first” approach and aware of the gradually
    expanding amounts of data and how to access them easily, the idea which inspired me
    resulted in the SARDatabase project that was focused on the modern mobile devices allowing
    for the internet access and having the mobile network capabilities.
