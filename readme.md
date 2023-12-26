@@ -53,7 +53,7 @@ https://flic.kr/s/aHBqjB82Mf
 
 
 **3.** The creation of new means of expression that could be present in the researched online media.
-It was highlighted in the study that txting is an efficient transmitter of information in that
+The study indicates that txting is an efficient transmitter of information in that
 it encodes much more information than it itself needs so as to function properly. As a result,
 txting might become an efficient transmitter of information, for example, in mobile networks,
 which would require the relatively new kind of software that could be able to cooperate with
@@ -79,7 +79,7 @@ https://flic.kr/p/2pnTtmp
    prepared and delivered to the patients/ customers satisfy the strictest criteria.
    The complexity of the whole process uncovers potential problems. Therefore, there are certain
    questions that one might ask:
-            1. Is there any possibility to modify the process of creation of such multimodal
+            1. Is there any possibility to modify the process of the creation of such multimodal
                materials, so that scientists would be able to use this time for their research rather
                than the materials connected with their research?
             2. Is it possible to make the search for unclear medical notions more researcher friendly?
