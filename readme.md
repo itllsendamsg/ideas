@@ -33,8 +33,8 @@ of my idea for a potential technological solution:
 
 
 1. The impact of the graphic layout on the presentations of materials in coursebooks.
-   **This research provided me with an inspiration for the User  Software Efficient and
-   Ergonomic Interaction.**
+**This research provided me with an inspiration for the User  Software Efficient
+   and Ergonomic Interaction.**
 
 https://flic.kr/p/2pnYx6p
 
@@ -59,8 +59,8 @@ development of the communication channels because there is already available tec
 allows for the transmission of huge amounts of data which need to be processed, but the
 question remains why it would not be worth decreasing this pressure by optimising the medium,
 i.e. the language.
-**This research provided me with an inspiration for the User  Software Maximally Meaning Rich
-and Cost-effective Data Transmission.**
+   **This research provided me with an inspiration for the User  Software Maximally Meaning Rich
+   and Cost-effective Data Transmission.**
 
 https://flic.kr/p/2pnZ2wn
 https://flic.kr/p/2pnTtmp
@@ -81,9 +81,9 @@ https://flic.kr/p/2pnTtmp
             2. Is it possible to make the search for unclear medical notions more researcher friendly?
             3. Is there any potential solution that allows for the automatic creation of such materials?
 
-**This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
-leading to the evolution stages of the Ideas project i.e.
-MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
+   **This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
+   leading to the evolution stages of the Ideas project i.e.
+   MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
 
 https://flic.kr/p/2pnTChF
 
