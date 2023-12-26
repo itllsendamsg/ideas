@@ -35,7 +35,7 @@ of my idea for a potential technological solution:
 
 
    
-**1**. The impact of the graphic layout on the presentations of materials in coursebooks.
+**1.** The impact of the graphic layout on the presentations of materials in coursebooks.
 
    **This research provided me with an inspiration for the User  Software Efficient
    and Ergonomic Interaction.**
@@ -45,7 +45,7 @@ https://flic.kr/p/2pnYx6p
 
 
 
-2. Techie
+**2.** Techie
 
    **This research was a groundbreaking moment in my life. Everything that had led to it
    and everything that has happened ever since that moment is going to reach far beyond
@@ -58,7 +58,7 @@ https://flic.kr/s/aHBqjB82Mf
 
 
    
-3. The creation of new means of expression that could be present in the researched online media.
+**3.** The creation of new means of expression that could be present in the researched online media.
 It was highlighted in the study that txting is an efficient transmitter of information in that
 it encodes much more information than it itself needs so as to function properly. As a result,
 txting might become an efficient transmitter of information, for example, in mobile networks,
@@ -78,7 +78,7 @@ https://flic.kr/p/2pnTtmp
 
 
 
-4. The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical trial
+**4.** The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical trial
    designs reports, medical examinations’ descriptions, technical descriptions of medicines,
    medical presentations, medical brochures and medical leaflets.
    Taking into consideration the amounts of such materials created each day, it indicates how
@@ -103,7 +103,7 @@ https://flic.kr/p/2pnTChF
 
 
 
-5. At this stage, being focused on the “mobile first” approach and aware of the gradually expanding
+**5.** At this stage, being focused on the “mobile first” approach and aware of the gradually expanding
    amounts of data and how to access them easily, the idea which inspired me resulted in the SARDatabase
    project that was focused on the modern mobile devices allowing for the internet access and having
    the mobile network capabilities.
@@ -122,7 +122,7 @@ https://flic.kr/p/2pnYrtR
 
 
 
-6. Taking into consideration all the above-mentioned inspirations that resulted from the research, i.e.
+**6.** Taking into consideration all the above-mentioned inspirations that resulted from the research, i.e.
 
    **1. This research provided me with an inspiration for the User  Software Efficient and Ergonomic
       Interaction.**
