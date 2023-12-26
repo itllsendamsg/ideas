@@ -79,11 +79,11 @@ https://flic.kr/p/2pnTtmp
    prepared and delivered to the patients/ customers satisfy the strictest criteria.
    The complexity of the whole process uncovers potential problems. Therefore, there are certain
    questions that one might ask:
-            1. Is there any possibility to modify the process of the creation of such multimodal
-               materials, so that scientists would be able to use this time for their research rather
-               than the materials connected with their research?
-            2. Is it possible to make the search for unclear medical notions more researcher friendly?
-            3. Is there any potential solution that allows for the automatic creation of such materials?
+1. Is there any possibility to modify the process of the creation of such multimodal
+materials, so that scientists would be able to use this time for their research rather
+than the materials connected with their research?
+2. Is it possible to make the search for unclear medical notions more researcher friendly?
+3. Is there any potential solution that allows for the automatic creation of such materials?
 
    
    **This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
