@@ -133,28 +133,28 @@ The Ideas application implements the use of the Data Access Object (DAO), i.e. t
 this case facilitates the functionality of the application by the provision of the clear separation of the data
 resource’s client interface from the data access mechanisms.
 The current design and organisation of the packages, classes and interfaces are as follows:
-"\n"1. pl.stormit.ideas
-"\n"   1.1. dao
-"\n"   1.1.1. CategoryDao
-"\n"   1.1.2. QuestionDao
-"\n"2. handlers
-"\n"   2.1. AnswerCommandHandler
-"\n"   2.2. BaseCommandHandler
-"\n"   2.3. CategoryCommandHandler
-"\n"   2.4. CommandHandler
-"\n"   2.5. HelpCommandHandler
-"\n"   2.6. QuestionCommandHandler
-"\n"   2.7. QuitCommandHandler
-"\n"3. input
-"\n"   3.1. UserInputCommand
-"\n"   3.2. UserInputManager
-"\n"4. model
-"\n"   4.1. Answer
-"\n"   4.2. Category
-"\n"   4.3. Question
-"\n" 5. Action
-"\n" 6. Ideas Application
-"\n" 7. QuitIdeasApplicationException
+1. pl.stormit.ideas
+1.1. dao
+1.1.1. CategoryDao
+1.1.2. QuestionDao
+2. handlers
+2.1. AnswerCommandHandler
+2.2. BaseCommandHandler
+2.3. CategoryCommandHandler
+2.4. CommandHandler
+2.5. HelpCommandHandler
+2.6. QuestionCommandHandler
+2.7. QuitCommandHandler
+3. input
+3.1. UserInputCommand
+3.2. UserInputManager
+4. model
+4.1. Answer
+4.2. Category
+4.3. Question
+5. Action
+6. Ideas Application
+7. QuitIdeasApplicationException
 
 At this stage of the development, it is possible to interact with the application, which is capable of responding
 to the user’s input.
