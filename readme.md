@@ -1,5 +1,5 @@
-Ideas
-ENHKX Med+) ) ) Drone
+**Ideas**
+**ENHKX Med+) ) ) Drone**
 
 
 
@@ -13,29 +13,43 @@ any possible academic and technological obstacles as well as limitations when pr
 some of the most inexplicable problems and the urgent need for how to address them.
 
 Therefore, while experimenting with various combinations of my background knowledge in
-academic research and technology, I have finally managed to narrow the areas of interest that
-would be fundamentally beneficial for me to further gradually specify the final details of my
-idea for a potential technological solution:
+academic research and technology, I have finally managed to narrow the areas of interest
+that would be fundamentally beneficial for me to further gradually specify the final details
+of my idea for a potential technological solution:
 
 1. The impact of the graphic layout on the presentations of materials in coursebooks.
-2. The creation of new means of expression that could be present in the researched online media.
-3. The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical trial
-   designs reports, medical examinations’ descriptions, technical descriptions of medicines,
-   medical presentations, medical brochures and medical leaflets.
-4. At this stage, being focused on the “mobile first” approach and aware of the gradually
-   expanding amounts of data and how to access them easily, the idea which inspired me resulted
-   in the SARDatabase project that was focused on the modern mobile devices allowing for the
-   internet access and having the mobile network capabilities.
+2. This research was a groundbreaking moment in my life. Everything that had led to
+   it and everything that has happened ever since that moment is going to reach far
+   beyond the scope of this readme file and has its impact till the end of my life.
+3. The creation of new means of expression that could be present in the researched
+   online media.
+4. The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical
+   trial designs reports, medical examinations’ descriptions, technical descriptions
+   of medicines, medical presentations, medical brochures and medical leaflets.
+5. At this stage, being focused on the “mobile first” approach and aware of the gradually
+   expanding amounts of data and how to access them easily, the idea which inspired me
+   resulted in the SARDatabase project that was focused on the modern mobile devices allowing
+   for the internet access and having the mobile network capabilities.
 
 
 1. The impact of the graphic layout on the presentations of materials in coursebooks.
-   This research provided me with an inspiration for the User  Software Efficient and
-   Ergonomic Interaction.
+   **This research provided me with an inspiration for the User  Software Efficient and
+   Ergonomic Interaction.**
 
 https://flic.kr/p/2pnYx6p
 
 
-2. The creation of new means of expression that could be present in the researched online media.
+2. Techie
+   **This research was a groundbreaking moment in my life. Everything that had led to it
+   and everything that has happened ever since that moment is going to reach far beyond
+   the scope of this readme file and has its impact till the end of my life.
+   It appears that the reference to my Linkedin account would be appropriate here, i.e.
+   https://www.linkedin.com/in/marcin-chudy-67817b69/**
+
+https://flic.kr/s/aHBqjB82Mf
+
+   
+3. The creation of new means of expression that could be present in the researched online media.
 It was highlighted in the study that txting is an efficient transmitter of information in that
 it encodes much more information than it itself needs so as to function properly. As a result,
 txting might become an efficient transmitter of information, for example, in mobile networks,
@@ -44,15 +58,15 @@ the already available hardware. The question which emerges at that point is conn
 development of the communication channels because there is already available technology that
 allows for the transmission of huge amounts of data which need to be processed, but the
 question remains why it would not be worth decreasing this pressure by optimising the medium,
-i.e. language.
-This research provided me with an inspiration for the User  Software Maximally Meaning Rich
-and Cost-effective Data Transmission.
+i.e. the language.
+**This research provided me with an inspiration for the User  Software Maximally Meaning Rich
+and Cost-effective Data Transmission.**
 
 https://flic.kr/p/2pnZ2wn
 https://flic.kr/p/2pnTtmp
 
 
-3. The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical trial
+4. The analyses of Multimodal Materials in medicine, e.g. clinical trial reports, clinical trial
    designs reports, medical examinations’ descriptions, technical descriptions of medicines,
    medical presentations, medical brochures and medical leaflets.
    Taking into consideration the amounts of such materials created each day, it indicates how
@@ -67,22 +81,22 @@ https://flic.kr/p/2pnTtmp
             2. Is it possible to make the search for unclear medical notions more researcher friendly?
             3. Is there any potential solution that allows for the automatic creation of such materials?
 
-This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
+**This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
 leading to the evolution stages of the Ideas project i.e.
-MedPick+ project  ENHKX Med+) ) ) Drone project ideas project
+MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
 
 https://flic.kr/p/2pnTChF
 
 
-4. At this stage, being focused on the “mobile first” approach and aware of the gradually expanding
+5. At this stage, being focused on the “mobile first” approach and aware of the gradually expanding
    amounts of data and how to access them easily, the idea which inspired me resulted in the SARDatabase
    project that was focused on the modern mobile devices allowing for the internet access and having
    the mobile network capabilities.
-   Nevertheless, the spectrum of the available tools and solutions appeared to be constantly expanding.
+   **Nevertheless, the spectrum of the available tools and solutions appeared to be constantly expanding.
    Therefore, the ideas that this project convenes have been incorporated and serve as the building block
    for the ENHKX Med+) ) ) Drone  ENHKX_Lifeline_Drone_App projects rather than as a separate project.
    This project provided me with an inspiration for a reasonable reuse of the already available resources
-   and solutions
+   and solutions**
 
 https://flic.kr/p/2pnTKbv
 https://flic.kr/p/2po1afh
@@ -90,21 +104,24 @@ https://flic.kr/p/2pnTKbA
 https://flic.kr/p/2pnYrtR
 
 
-5. Taking into consideration all the above-mentioned inspirations that resulted from the research, i.e.
-   1. This research provided me with an inspiration for the User  Software Efficient and Ergonomic
-      Interaction.
-   2. This research provided me with an inspiration for the User  Software Maximally Meaning Rich 
-      and Cost-effective Data Transmission.
-   3. This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
+6. Taking into consideration all the above-mentioned inspirations that resulted from the research, i.e.
+   **1. This research provided me with an inspiration for the User  Software Efficient and Ergonomic
+      Interaction.**
+   **2. This research was a groundbreaking moment in my life. Everything that had led to it and everything
+      that has happened ever since that moment is going to reach far beyond the scope of this readme file
+      and has its impact till the end of my life.**
+   **3. This research provided me with an inspiration for the User  Software Maximally Meaning Rich 
+      and Cost-effective Data Transmission.**
+   **4. This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
       leading to the evolution stages of the Ideas project i.e.
-      MedPick+ project  ENHKX Med+) ) ) Drone project ideas project
-   4. This project provided me with an inspiration for a reasonable reuse of the already available resources
-      and solutions
+      MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
+   **5. This project provided me with an inspiration for a reasonable reuse of the already available resources
+      and solutions.**
 
 They enabled me to gradually translate my previous conclusions from the academic research into the real world
 solutions where Java has become the technology of choice and the tool used in order to materialise my dreams
-about the functional application that would encompass all these previous experiences into a functional technological
-solution.
+about the functional application that would encompass all these previous experiences into a functional
+technological solution.
 
 https://flic.kr/p/2pnYBxd
 https://flic.kr/p/2pnZtze
