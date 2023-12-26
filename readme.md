@@ -35,7 +35,7 @@ of my idea for a potential technological solution:
 
 
    
-1.The impact of the graphic layout on the presentations of materials in coursebooks.
+1. The impact of the graphic layout on the presentations of materials in coursebooks.
 
    **This research provided me with an inspiration for the User  Software Efficient
    and Ergonomic Interaction.**
