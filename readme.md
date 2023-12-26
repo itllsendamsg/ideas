@@ -88,7 +88,7 @@ than the materials connected with their research?
    
    **This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
    leading to the evolution stages of the Ideas project i.e.
-   MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
+   MedPick+ project  ENHKX Med+) ) ) Drone project ideas project.**
 
 https://flic.kr/p/2pnTChF
 
