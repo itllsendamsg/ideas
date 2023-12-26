@@ -124,7 +124,7 @@ https://flic.kr/p/2pnYrtR
 
    **4. This research provided me with an inspiration for the blueprint of the MedPick+ project, consequently,
       leading to the evolution stages of the Ideas project i.e.
-      MedPick+ project  ENHKX Med+) ) ) Drone project ideas project**
+      MedPick+ project  ENHKX Med+) ) ) Drone project ideas project.**
 
    **5. This project provided me with an inspiration for a reasonable reuse of the already available resources
       and solutions.**
