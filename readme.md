@@ -102,7 +102,7 @@ https://flic.kr/p/2pnTChF
    Therefore, the ideas that this project convenes have been incorporated and serve as the building block
    for the ENHKX Med+) ) ) Drone  ENHKX_Lifeline_Drone_App projects rather than as a separate project.
    This project provided me with an inspiration for a reasonable reuse of the already available resources
-   and solutions**
+   and solutions.**
 
 https://flic.kr/p/2pnTKbv
 https://flic.kr/p/2po1afh
