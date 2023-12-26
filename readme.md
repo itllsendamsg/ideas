@@ -147,41 +147,41 @@ The current design and organisation of the packages, classes and interfaces are 
 
 1.pl.stormit.ideas
 
-1.1. dao
+1.1.dao
 
-1.1.1. CategoryDao
+1.1.1.CategoryDao
 
-1.1.2. QuestionDao
+1.1.2.QuestionDao
 
 2.handlers
 
-2.1. AnswerCommandHandler
+2.1.AnswerCommandHandler
 
-2.2. BaseCommandHandler
+2.2.BaseCommandHandler
 
-2.3. CategoryCommandHandler
+2.3.CategoryCommandHandler
 
-2.4. CommandHandler
+2.4.CommandHandler
 
-2.5. HelpCommandHandler
+2.5.HelpCommandHandler
 
-2.6. QuestionCommandHandler
+2.6.QuestionCommandHandler
 
-2.7. QuitCommandHandle
+2.7.QuitCommandHandle
 
 3.input
 
-3.1. UserInputCommand
+3.1.UserInputCommand
 
-3.2. UserInputManager
+3.2.UserInputManager
 
 4.model
 
-4.1. Answer
+4.1.Answer
 
-4.2. Category
+4.2.Category
 
-4.3. Question
+4.3.Question
 
 5.Action
 
