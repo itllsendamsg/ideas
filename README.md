@@ -194,3 +194,4 @@ The current design and organisation of the packages, classes and interfaces are 
 
 At this stage of the development, it is possible to interact with the application, which is capable of responding
 to the user’s input.
+
